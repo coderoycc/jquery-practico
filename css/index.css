@@ -1,0 +1,21 @@
+div{
+  width: 700px;
+  height: 300px;
+  margin:0 auto;
+  border: 1px solid skyblue;
+}
+p{
+  color: blue;
+  background-color: bisque;
+}
+.miParrafo{
+  color: aquamarine;
+  background-color: darkcyan;
+}
+#contenido{
+  background-color: cornflowerblue;
+}
+.segundo{
+  background-color: #202020;
+  color: bisque;
+}
