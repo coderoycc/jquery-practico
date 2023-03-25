@@ -32,4 +32,5 @@ $(document).ready(()=>{
   // $('.caja').outerWidth('80px');
   $('.caja').css('border', '4px solid yellow')
   console.log($('.caja').css('width'));
+  
 })
