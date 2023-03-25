@@ -2,7 +2,6 @@ div{
   width: 700px;
   height: 300px;
   margin:0 auto;
-  border: 1px solid skyblue;
 }
 p{
   color: blue;
@@ -18,4 +17,31 @@ p{
 .segundo{
   background-color: #202020;
   color: bisque;
+}
+.amarillo{
+  color:yellow;
+}
+.fondo{
+  background-color: blue;
+}
+.caja{
+  width: 500px;
+  height: 100px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  cursor: pointer;
+}
+.boton{
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.boton-rojo{
+  background: red;
+  color: blue;
+}
+.boton-azul{
+  background: blue;
+  color: red;
 }
