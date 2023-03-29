@@ -29,4 +29,9 @@ $(document).ready(()=>{
     // Aumentar
     // 'width':'+=5px'
   })
+
+  /* 
+    Para ver más animaciones usando otra libreria de jquery.
+    Visitar: https://jqueryui.com/
+  */
 });
